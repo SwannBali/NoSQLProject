@@ -5,6 +5,11 @@ import Logger from "@ioc:Adonis/Core/Logger"
 import { MongoType } from "App/Types/types"
 import { Types } from "@ioc:Adonis/Addons/Mongoose"
 
+// Ici on a trois méthodes, create, getAll et getOne.
+// La méthode create permet de créer un produit dans la base de données.
+// La méthode getAll permet de récupérer tous les produits de la base de données.
+// La méthode getOne permet de récupérer un produit de la base de données en fonction de son id.
+
 Redis.connection()
 
 export default class ProductsController {
