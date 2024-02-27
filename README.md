@@ -11,7 +11,20 @@ Le projet est un petit site qui permet de faire une recherche sur une base de do
 
 
 ## 🛠️ Installation
-Vous devez vous placez au même endroit que le `dockercompose.yml`  et lancez :
+Clonez:
+
+```bash
+git clone https://github.com/SwannBali/NoSQLProject.git
+```
+
+Ensuite:
+
+```bash
+cd /NoSQLProject
+```
+
+
+Vous devez normalement être au même endroit que le `dockercompose.yml`  et lancez :
 
 ```bash
 docker compose up --build
@@ -65,11 +78,3 @@ Voici le format de données attendu:
 
 #### Decaux Kevin
 - Github: [@Swann](https://github.com/SwannBali)
-        
-
-        
-        
-        
-        
-        
-        
