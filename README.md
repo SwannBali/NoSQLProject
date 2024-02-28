@@ -40,6 +40,9 @@ Rendez-vous sur:
 
 [localhost:3000/login](http://localhost:3000/login)
 
+Connectez-vous avec:
+Email: Swannbld@gmail.com
+Mot de passe: test
 
 ## A savoir !!
 
